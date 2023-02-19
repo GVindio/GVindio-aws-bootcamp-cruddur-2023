@@ -14,4 +14,8 @@ sudo ./aws/install
 
 ```
 
+### Created a Billing Alarm 
+
+[Image of Billing Alarm](assets/Billing_Alarm.PNG)
+
 

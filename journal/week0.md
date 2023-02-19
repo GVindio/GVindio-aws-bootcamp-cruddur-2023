@@ -25,7 +25,7 @@ sudo ./aws/install
 
 ### Recreated Logical Architecture Design
 
-![Image of Architecture Design(assets/Architecture_Design.PNG)
+![Image of Architecture Design](assets/Architecture_Design.PNG)
 
 
 

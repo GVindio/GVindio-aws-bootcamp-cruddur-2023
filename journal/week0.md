@@ -21,13 +21,15 @@ sudo ./aws/install
 ![Image of Billing Alarm](https://github.com/GVindio/GVindio-aws-bootcamp-cruddur-2023/blob/main/assets/Billing_Alarm.png)
 
 
-### Created A Budget Alarm
+### Created a Budget Alarm
 
 ![Image of Budget Alarm](https://github.com/GVindio/GVindio-aws-bootcamp-cruddur-2023/blob/main/assets/Billing_Alarm.png)
+
 
 ### Recreated Logical Architecture Design
 
 ![Image of Architecture Design](https://github.com/GVindio/GVindio-aws-bootcamp-cruddur-2023/blob/main/assets/Architecture_Design.png)
+
 
 ### Logical Logical Architecture Design Lucid Chart Shared Link Lucid Chart Shared Link
 

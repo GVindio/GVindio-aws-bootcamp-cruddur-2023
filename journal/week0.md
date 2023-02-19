@@ -27,5 +27,8 @@ sudo ./aws/install
 
 ![Image of Architecture Design](assets/Architecture_Design.PNG)
 
+[Lucid Chart Shared Link(https://lucid.app/lucidchart/b4fb1ade-8dd5-4ba2-81e7-fdbfce186597/edit?viewport_loc=-966%2C-202%2C4608%2C1662%2C0_0&invitationId=inv_81828865-cb94-47ee-9a09-21ece0fbc8c9)
+
+
 
 

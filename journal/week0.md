@@ -14,8 +14,7 @@ sudo ./aws/install
 
 ```
 
-### Image Links Broken Not Sure Why?
-Image links broken not sure why will have to research.
+
 
 ### Created a Billing Alarm 
 

@@ -37,7 +37,7 @@ Image links broken not sure why will have to research.
 
 ### Architecture Design Napkin
 
-![Image of Architecture Design Napkin(https://github.com/GVindio/GVindio-aws-bootcamp-cruddur-2023/blob/main/assets/Napkin.jpg)
+![Image of Architecture Design Napkin](https://github.com/GVindio/GVindio-aws-bootcamp-cruddur-2023/blob/main/assets/Napkin.jpg)
 
 
 

@@ -23,5 +23,9 @@ sudo ./aws/install
 
 ![Image of Budget Alarm](assets/Budget_Alarm.PNG)
 
+### Recreated Logical Architecture Design
+
+![Image of Architecture Design(assets/Architecture_Design.PNG)
+
 
 
